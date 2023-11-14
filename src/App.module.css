@@ -1,0 +1,55 @@
+.width1000 {
+  width: 1500px;
+  display: flex;
+}
+
+.textBold {
+  font-weight: 500;
+  font-size: 25px;
+}
+
+.textGrey {
+  color: grey;
+  font-size: 20px;
+}
+
+p {
+  margin: 0;
+}
+
+.middle_center {
+  margin: auto;
+  width: 100px;
+  height: 100px;
+}
+
+.task2 {
+  display: flex;
+  gap: 10px;
+}
+.task5_1 {
+  width: 500px;
+  height: 400px;
+  background-color: aqua;
+  display: flex;
+  position: relative;
+  border-radius: 10px;
+}
+
+.task5_2 {
+  margin-top: 150px;
+  margin-left: 50px;
+  float: left;
+}
+
+.honeyPot {
+  height: 100px;
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  bottom: 0;
+  left: 208px;
+}
